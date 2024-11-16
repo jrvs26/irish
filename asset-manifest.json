@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/irish/hello/static/css/main.1d3524cc.css",
+    "main.js": "/irish/hello/static/js/main.6d421b57.js",
+    "static/js/453.9ccc829f.chunk.js": "/irish/hello/static/js/453.9ccc829f.chunk.js",
+    "static/media/heart.png": "/irish/hello/static/media/heart.0c012cedd90b93e94d92.png",
+    "index.html": "/irish/hello/index.html",
+    "main.1d3524cc.css.map": "/irish/hello/static/css/main.1d3524cc.css.map",
+    "main.6d421b57.js.map": "/irish/hello/static/js/main.6d421b57.js.map",
+    "453.9ccc829f.chunk.js.map": "/irish/hello/static/js/453.9ccc829f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3524cc.css",
+    "static/js/main.6d421b57.js"
+  ]
+}
